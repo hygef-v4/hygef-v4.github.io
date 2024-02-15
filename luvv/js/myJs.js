@@ -4,7 +4,7 @@ const textConfig = {
   text3: "bạn yêu tui có phải không nào ._.",
   text4: "Nếu bạn ko trả lời mà thoát ra tức là bạn yêu tui đó nha :v",
   text5: "bạn mơ à???",
-  text6: "Yêu ơi là yêu <3",
+  text6: "iuu ơi là iu <3",
   text7: "cho cin lí do bạn thích tui đi :Đ",
   text8: "Gửi cho tui <3",
   text9: "Vì bạn đẹp try vlllll",
